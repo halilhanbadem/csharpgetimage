@@ -1,0 +1,9 @@
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\bin\Debug\ResimGetir.exe.config
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\bin\Debug\ResimGetir.exe
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\bin\Debug\ResimGetir.pdb
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\obj\Debug\ResimGetir.csprojAssemblyReference.cache
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\obj\Debug\ResimGetir.Form1.resources
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\obj\Debug\ResimGetir.Properties.Resources.resources
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\obj\Debug\ResimGetir.csproj.GenerateResource.cache
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\obj\Debug\ResimGetir.exe
+C:\Users\Halil Han Badem\Desktop\ResimGetir\ResimGetir\ResimGetir\obj\Debug\ResimGetir.pdb
